@@ -71,8 +71,6 @@ Ferramentas do ecossistema de dados, organizadas por área.
   <img alt="dbt" src="https://img.shields.io/badge/dbt-C94F34?style=for-the-badge&amp;logo=dbt&amp;logoColor=white" />
   <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&amp;logo=apacheairflow&amp;logoColor=white" />
   <img alt="Spark" src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&amp;logo=apachespark&amp;logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-D97516?style=for-the-badge&amp;logo=scikitlearn&amp;logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-C83942?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" />
 </p>
 
 **Ambiente & versionamento**
