@@ -1,25 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
-  <title id="title">João Vitor Coutinho — Análise de Dados</title>
-  <desc id="desc">Banner minimalista em grafite, com tipografia clara, detalhes verdes e gráfico abstrato.</desc>
-  <defs>
-    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse"><path d="M 42 0 L 0 0 0 42" fill="none" stroke="#263330" stroke-width="1"/></pattern>
-    <linearGradient id="area" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8ddbb5" stop-opacity=".16"/><stop offset="1" stop-color="#8ddbb5" stop-opacity="0"/></linearGradient>
-  </defs>
-  <rect width="1200" height="340" rx="18" fill="#111917"/>
-  <rect x="786" y="38" width="366" height="264" fill="url(#grid)" opacity=".55"/>
-  <rect x="48" y="49" width="26" height="3" rx="1.5" fill="#9ce8c3"/>
-  <text x="89" y="56" fill="#9ce8c3" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="3">ANÁLISE DE DADOS</text>
-  <text x="47" y="145" fill="#eff5f1" font-family="Segoe UI,Arial,sans-serif" font-size="48" font-weight="600" letter-spacing="-1.4">João Vitor Coutinho</text>
-  <text x="49" y="191" fill="#a7b9b0" font-family="Segoe UI,Arial,sans-serif" font-size="19">Clareza para entender. Contexto para decidir.</text>
-  <path d="M 49 235 H 698" stroke="#30413a"/>
-  <text x="49" y="278" fill="#b8c8bf" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">NEGÓCIO</text>
-  <circle cx="158" cy="274" r="2" fill="#71ac8e"/>
-  <text x="181" y="278" fill="#b8c8bf" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">DADOS</text>
-  <circle cx="270" cy="274" r="2" fill="#71ac8e"/>
-  <text x="293" y="278" fill="#b8c8bf" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="2">DECISÃO</text>
-  <text x="698" y="278" text-anchor="end" fill="#789385" font-family="Consolas,monospace" font-size="13">@coutinhojoa0</text>
-  <path d="M 804 244 L 861 207 L 916 224 L 973 162 L 1029 176 L 1128 93 L 1128 285 L 804 285 Z" fill="url(#area)"/>
-  <path d="M 804 244 L 861 207 L 916 224 L 973 162 L 1029 176 L 1128 93" fill="none" stroke="#9ce8c3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
-  <g fill="#111917" stroke="#9ce8c3" stroke-width="2"><circle cx="804" cy="244" r="4"/><circle cx="861" cy="207" r="4"/><circle cx="916" cy="224" r="4"/><circle cx="973" cy="162" r="4"/><circle cx="1029" cy="176" r="4"/></g>
-  <circle cx="1128" cy="93" r="12" fill="#9ce8c3" opacity=".12"/><circle cx="1128" cy="93" r="4" fill="#9ce8c3"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="title desc">
+<title id="title">João Vitor Coutinho — Análise de Dados</title>
+<desc id="desc">Banner tipográfico minimalista, fundo grafite, nome em destaque e detalhes em verde suave, sem gráfico.</desc>
+<rect width="1000" height="240" rx="16" fill="#101A17"/>
+<rect x="1" y="1" width="998" height="238" rx="15" fill="none" stroke="#293C33"/>
+<rect x="40" y="44" width="4" height="152" rx="2" fill="#9CE8C3"/>
+<text x="68" y="69" fill="#9CE8C3" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="600" letter-spacing="3">ANÁLISE DE DADOS</text>
+<text x="65" y="139" fill="#F0F6F2" font-family="Segoe UI,Arial,sans-serif" font-size="55" font-weight="650" letter-spacing="-1">João Vitor Coutinho</text>
+<text x="68" y="184" fill="#AFC2B8" font-family="Segoe UI,Arial,sans-serif" font-size="23">Clareza para entender. Contexto para decidir.</text>
+<circle cx="944" cy="60" r="5" fill="#9CE8C3"/>
 </svg>
